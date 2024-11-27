@@ -1,1 +1,2 @@
-"# gezondheidsmeter" 
+- VirtualHost nodig om te hosten.
+- Project nog niet af
